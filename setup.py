@@ -3,7 +3,7 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-     name='fastwork-cloud-function',
+     name='fastwork_cloud_function',
      version='0.1',
      scripts=['cloud_function.py'],
      author="Gabriel Mourão de Melo",
