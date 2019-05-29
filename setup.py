@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
      name='fastwork-cloud-function',
      version='0.1',
-     scripts=['fwcloudfunction'] ,
+     scripts=['cloud_function.py'],
      author="Gabriel Mourão de Melo",
      author_email="gabrielmouraodemelo@gmail.com",
      description="A package to be used with Swoole FastWork (PAAS Unifier)",

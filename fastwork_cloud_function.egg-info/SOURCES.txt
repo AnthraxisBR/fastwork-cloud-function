@@ -1,0 +1,7 @@
+README.md
+cloud_function.py
+setup.py
+fastwork_cloud_function.egg-info/PKG-INFO
+fastwork_cloud_function.egg-info/SOURCES.txt
+fastwork_cloud_function.egg-info/dependency_links.txt
+fastwork_cloud_function.egg-info/top_level.txt
